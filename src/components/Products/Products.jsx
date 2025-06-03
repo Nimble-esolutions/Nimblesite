@@ -16,8 +16,6 @@ const options = ["Sort by Popular", "Sort by View", "Sort by Price", "Sort by Ra
         label: it,
     })
 );
-
-
 const Products = () => {
     const pathname = usePathname()
 
