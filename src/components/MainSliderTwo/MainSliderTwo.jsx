@@ -111,8 +111,8 @@ const MainSliderTwo = ({ dark }) => {
                     <Col xl={7}>
                         <div className="main-slider-two__content">
                             <h2 className="main-slider-two__title wow fadeInUp" data-aos='fade-up' data-aos-delay="100">
-                                Great Business Off
-                                <Typewriter
+                                Providing Business Solutions
+{/*                                 <Typewriter
                                     className="typewrite"
                                     words={["Planning", "Growth", "Thinking"]}
                                     loop={0}
@@ -123,7 +123,7 @@ const MainSliderTwo = ({ dark }) => {
                                     delaySpeed={1000}
 
                                 />
-                                Team
+                                Team */}
 
                             </h2>
                             <p className="main-slider-two__text wow fadeInUp" data-aos='fade-up' data-aos-delay="200">
