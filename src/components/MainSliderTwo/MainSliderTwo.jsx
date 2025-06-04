@@ -114,7 +114,8 @@ const MainSliderTwo = ({ dark }) => {
                                 Providing Business Solutions
                                 <Typewriter
                                     className="typewrite"
-                                    words={["AI enabled Solutions ", "Develop Tailor-made Products ", "Develop Websites" , "Develop E-learning Solutions "
+{/*                                     words={["AI enabled Solutions ", "Develop Tailor-made Products ", "Develop Websites" , "Develop E-learning Solutions " */}
+                                    words={["Planning", "Growth", "Thinking"]}
                                     loop={0}
                                     cursor
                                     cursorStyle='|'
