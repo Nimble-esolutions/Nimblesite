@@ -57,20 +57,7 @@ const GalleryOne = () => {
     return (
         <section className="gallery-one">
             <Container fluid>
-                <Masonry className="row position-relative">
-                    {galleryData.map(({ id, src, alt, href, md, lg }, index) => (
-                        <Col key={id} md={md} lg={lg}>
-                            <div className="gallery-one__card">
-                                <Image src={src} alt={alt} layout="responsive" width={300} height={200} />
-                                <div className="gallery-one__card__hover">
-                                    <div onClick={() => handleClick(src, index)} className="img-popup">
-                                        <span className="gallery-one__card__icon"></span>
-                                    </div>
-                                </div>
-                            </div>
-                        </Col>
-                    ))}
-                </Masonry>
+                
             </Container>
             {/* Modal for Image Popup with Gallery Controls */}
             {clickedImg && (
