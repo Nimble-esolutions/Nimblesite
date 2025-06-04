@@ -59,17 +59,7 @@ const GalleryOne = () => {
             <Container fluid>
                 
             </Container>
-            {/* Modal for Image Popup with Gallery Controls */}
-            {clickedImg && (
-                <GalleryModal
-                    clickedImg={clickedImg}
-                    handelRotationRight={handelRotationRight}
-                    setClickedImg={setClickedImg}
-                    handelRotationLeft={handelRotationLeft}
-                    currentIndex={currentIndex}
-                    length={galleryData.length}
-                />
-            )}
+            
 
         </section>
     );
