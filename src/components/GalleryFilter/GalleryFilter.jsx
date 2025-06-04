@@ -89,21 +89,7 @@ const GalleryFilter = () => {
 
                     </ul>
                 </div>
-                <Masonry options={masonryOptions} className="row">
-                    {filteredProjects.map((item, index) => (
-                        <Col key={item.id} md={item.col} lg={item.lg} className={`filter-item ${item.filterCategory.join(' ')}`}>
-                            <div className="gallery-one__card">
-                                <Image src={item.src} alt={`Gallery ${item.id}`} layout="responsive"
-                                    loading="lazy" />
-                                <div className="gallery-one__card__hover">
-                                    <div onClick={() => handleClick(item.src, index)} className="img-popup">
-                                        <span className="gallery-one__card__icon"></span>
-                                    </div>
-                                </div>
-                            </div>
-                        </Col>
-                    ))}
-                </Masonry>
+                
             </Container>
             {clickedImg && (
                 <GalleryModal
