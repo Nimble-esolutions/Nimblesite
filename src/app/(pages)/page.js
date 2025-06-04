@@ -20,9 +20,9 @@ import WorkProcessOne from "@/components/WorkProcessOne/WorkProcessOne";
 import React from "react";
 
 export const metadata = {
-  title: "Home Two || Tolak || NextJS Template For It Solution & Business",
+  title: "Welcome To Nimble E-solutions",
   description:
-    "Tolak is a modern NextJS Template for Business, It Solution, Corporate, Agency, Portfolio shops. The template perfectly fits Beauty Spa, Salon, and Wellness Treatments websites and businesses.",
+    "We automate your business processess.",
 };
 
 const page = () => {
