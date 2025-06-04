@@ -112,9 +112,9 @@ const MainSliderTwo = ({ dark }) => {
                         <div className="main-slider-two__content">
                             <h2 className="main-slider-two__title wow fadeInUp" data-aos='fade-up' data-aos-delay="100">
                                 Providing Business Solutions
-{/*                                 <Typewriter
+                                <Typewriter
                                     className="typewrite"
-                                    words={["Planning", "Growth", "Thinking"]}
+                                    words={["AI enabled Solutions ", "Develop Tailor-made Products ", "Develop Websites" ,, "Develop E-learning Solutions "
                                     loop={0}
                                     cursor
                                     cursorStyle='|'
@@ -123,7 +123,6 @@ const MainSliderTwo = ({ dark }) => {
                                     delaySpeed={1000}
 
                                 />
-                                Team */}
 
                             </h2>
                             <p className="main-slider-two__text wow fadeInUp" data-aos='fade-up' data-aos-delay="200">
