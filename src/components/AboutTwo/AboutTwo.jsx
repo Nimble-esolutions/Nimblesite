@@ -43,7 +43,7 @@ const AboutTwo = () => {
                                             <CountUp className='count-text' end={count} duration={1.5} />
                                         )}
                                         k+</h3>
-                                    <p className="about-two__fact__text">Complete Project</p>
+                                    <p className="about-two__fact__text">Satisfied End Users</p>
                                 </Tilt>
                             </div>
                         </ScrollTrigger>
