@@ -34,7 +34,7 @@ const aboutTwoData = {
             id: 1,
             image: contImage,
             shape: contShape,
-            lists: ["1.	They address pain-areas", "2. Readily used by the end-users", "3. Increase efficiency"
+            lists: ["They address pain-areas", "Readily used by the end-users", "Increase efficiency"
 
             ],
 
