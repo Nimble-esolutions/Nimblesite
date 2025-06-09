@@ -10,11 +10,11 @@ const mainSliderTwoData = {
     shape,
     bg,
     bgDark,
-    text: "Business a soluion and emirate in the Arab known Business \n Solution for luxury city for Company.",
+    text: "Taking meaningful efforts to understand your unique requirements is first step of creating digital synergy. \n We begin with this to achieve",
     lists: [
-        { id: 1, list: "We provide a revolutionary" },
-        { id: 2, list: "This man for it <span>solution.</span>" },
-        { id: 3, list: "We provide a revolutionary" },
+        { id: 1, list: "On time delivery" },
+        { id: 2, list: "Deliver what is promised" },
+        { id: 3, list: "Set the solution as a new norm" },
 
     ],
     socials: [
