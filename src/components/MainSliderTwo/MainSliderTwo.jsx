@@ -159,7 +159,7 @@ const MainSliderTwo = ({ dark }) => {
                                 </Col>
                             </Row>
                             <div className="main-slider-two__btn wow fadeInUp" data-aos='fade-up' data-aos-delay="400ms">
-                                <a href="about.html" className="tolak-btn"><b>Get Solution</b><span></span></a>
+                                <a href="about.html" className="tolak-btn"><b>Our Recent Work</b><span></span></a>
                             </div>
                         </div>
                     </Col>
