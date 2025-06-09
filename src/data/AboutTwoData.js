@@ -14,7 +14,7 @@ const aboutTwoData = {
     text: "In our solution-based approach we translate your unique business processes into functionality. These tailor-made applications has proven to be the most efficient tools mainly because:",
 
 
-    count: "1283",
+    count: "1000",
     tabItems: [
         {
             id: 1,
