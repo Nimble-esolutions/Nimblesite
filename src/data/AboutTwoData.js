@@ -9,12 +9,12 @@ const aboutTwoData = {
     bg,
     shape, image1, image2,
 
-    tagLine: "Our About Now",
-    title: "We Can Clients with the \n About Services",
-    text: "Business tailored it design, management & support services \n business agency elit, sed do eiusmod tempor.",
+    tagLine: "We Believe",
+    title: "Your challenges are our \n creative opportunities",
+    text: "In our solution-based approach we translate your unique business processes into functionality. These tailor-made applications has proven to be the most efficient tools mainly because:",
 
 
-    count: "1283",
+    count: "1000",
     tabItems: [
         {
             id: 1,
@@ -34,7 +34,7 @@ const aboutTwoData = {
             id: 1,
             image: contImage,
             shape: contShape,
-            lists: ["Business onstructivism.", "We give management", "Media in this solution."
+            lists: ["They address pain-areas", "Readily used by the end-users", "Increase efficiency"
 
             ],
 

@@ -114,7 +114,6 @@ const MainSliderTwo = ({ dark }) => {
                                 Providing Business Solutions
                                 <Typewriter
                                     className="typewrite"
-{/*                                     words={["AI enabled Solutions ", "Develop Tailor-made Products ", "Develop Websites" , "Develop E-learning Solutions " */}
                                     words={["Planning", "Growth", "Thinking"]}
                                     loop={0}
                                     cursor
@@ -159,7 +158,7 @@ const MainSliderTwo = ({ dark }) => {
                                 </Col>
                             </Row>
                             <div className="main-slider-two__btn wow fadeInUp" data-aos='fade-up' data-aos-delay="400ms">
-                                <a href="about.html" className="tolak-btn"><b>Get Solution</b><span></span></a>
+                                <a href="about.html" className="tolak-btn"><b>Our Recent Work</b><span></span></a>
                             </div>
                         </div>
                     </Col>

@@ -241,11 +241,11 @@ const MainSliderOne = () => {
         <h5 className='main-slider-one__project__number count-box'>
 
 
-          <ScrollTriggerCount count={1283} />
+          <ScrollTriggerCount count={1000} />
 
-          k+
+          +
         </h5>
-        <p className='main-slider-one__project__title'>Complete Projects</p>
+        <p className='main-slider-one__project__title'>Satisfied End Users</p>
       </div>
 
     </section>
