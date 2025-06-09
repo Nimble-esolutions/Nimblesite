@@ -10,7 +10,7 @@ const aboutTwoData = {
     shape, image1, image2,
 
     tagLine: "We Believe",
-    title: "That your challenges are our \n creative opportunities",
+    title: "Your challenges are our \n creative opportunities",
     text: "In our solution-based approach we translate your unique business processes into functionality. These tailor-made applications has proven to be the most efficient tools mainly because:",
 
 
@@ -34,7 +34,7 @@ const aboutTwoData = {
             id: 1,
             image: contImage,
             shape: contShape,
-            lists: ["Business onstructivism.", "We give management", "Media in this solution."
+            lists: ["1.	They address pain-areas", "2. Readily used by the end-users", "3. Increase efficiency"
 
             ],
 
