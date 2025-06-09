@@ -9,9 +9,9 @@ const aboutTwoData = {
     bg,
     shape, image1, image2,
 
-    tagLine: "Our About Now",
-    title: "We Can Clients with the \n About Services",
-    text: "Business tailored it design, management & support services \n business agency elit, sed do eiusmod tempor.",
+    tagLine: "We Believe",
+    title: "That your challenges are our \n creative opportunities",
+    text: "In our solution-based approach we translate your unique business processes into functionality. These tailor-made applications has proven to be the most efficient tools mainly because:",
 
 
     count: "1283",
