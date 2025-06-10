@@ -82,9 +82,7 @@ const AboutTwo = () => {
                                             <div className="about-two__content__image">
                                                 <Image src={image} alt="tolak" />
                                                 <div className="about-two__content__image__bg"></div>
-                                                <div className="about-two__content__image__shape">
-                                                    <Image src={shape} alt="tolak" />
-                                                </div>
+                                                
                                             </div>
                                         </div>
                                     </div>
