@@ -100,8 +100,9 @@ const FaqOne = () => {
                       <span className='accrodion-title__icon'></span>
                     </Accordion.Header>
                     <Accordion.Body>
-                      <div className='inner'>
+                      <div className='inner' dangerouslySetInnerHTML={{ __html: item.content }}>
                         <p>{content}</p>
+                        
                       </div>
                     </Accordion.Body>
                   </Accordion.Item>

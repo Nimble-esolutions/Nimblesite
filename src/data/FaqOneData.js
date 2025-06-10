@@ -14,7 +14,7 @@ const faqOneData = {
       id: 1,
       header: "1.	What are AI enabled applications developed?",
       content:
-        "a.	Using ChatGpt business API, we have developed private search engine with file management system for a sub-sea consultant agency. \n b.	The application handles hundreds of documents for providing search results.\n c.	The access to documents and ChatGpt seach is restricted to the private database of documents built. ",
+        "a.	Using ChatGpt business API, we have developed private search engine with file management system for a sub-sea consultant agency. \n b.	The application handles hundreds of documents for providing search results. \n c.	The access to documents and ChatGpt seach is restricted to the private database of documents built. ",
     },
     {
       id: 2,
