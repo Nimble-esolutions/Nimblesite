@@ -15,8 +15,8 @@ const workProcessOneData = {
             id: 1,
             bg: itemBg,
             image: itemImage1,
-            title: "Business Service",
-            text: "We best onstructivism.",
+            title: "Understanding & translating requirements into functionality",
+            text: "An utmost important stage.",
             href: "about"
 
         },
@@ -24,8 +24,8 @@ const workProcessOneData = {
             id: 2,
             bg: itemBg,
             image: itemImage2,
-            title: "Expert Members",
-            text: "We best onstructivism.",
+            title: "Presenting the solution",
+            text: "UI team creates mock Interface",
             href: "about"
 
         },
@@ -33,8 +33,8 @@ const workProcessOneData = {
             id: 3,
             bg: itemBg,
             image: itemImage3,
-            title: "Quality Project",
-            text: "We best onstructivism.",
+            title: "Development stage Kick-off",
+            text: "Developmental team starts the activities",
             href: "about"
 
         },
@@ -42,8 +42,26 @@ const workProcessOneData = {
             id: 4,
             bg: itemBg,
             image: itemImage4,
-            title: "Free Consultation",
-            text: "We best onstructivism.",
+            title: "The moment of truth",
+            text: "Testing for Functional accuracy",
+            href: "about"
+
+        },
+        {
+            id: 5,
+            bg: itemBg,
+            image: itemImage4,
+            title: "Going Live",
+            text: "A smooth transition is ensured",
+            href: "about"
+
+        },
+        {
+            id: 6,
+            bg: itemBg,
+            image: itemImage4,
+            title: "Hand Holding",
+            text: "The timely help is our specialty",
             href: "about"
 
         }

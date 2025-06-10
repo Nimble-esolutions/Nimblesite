@@ -11,8 +11,8 @@ const TinySlider = dynamic(() => import("tiny-slider-react"), {
 const { bg, title, tagLine, carouselData } = workProcessOneData
 const settings = {
 
-    items: 4,
-    gutter: 30,
+    items: 6,
+    gutter: 20,
     loop: false,
     smartSpeed: 700,
     nav: true,
@@ -31,7 +31,7 @@ const settings = {
             items: 3
         },
         1200: {
-            items: 4
+            items: 6
         }
     }
 }
