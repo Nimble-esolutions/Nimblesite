@@ -41,9 +41,9 @@ const page = () => {
       <CtaFour />
       <WorkProcessOne />
       <TestimonialsOne />
-      <PricingOne />
+      {/* <PricingOne />
       <CtaThree />
-      <BlogTwo />
+      <BlogTwo /> */}
       <FooterTwo />
     </Layout>
   );

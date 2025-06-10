@@ -15,7 +15,7 @@ const workProcessOneData = {
             id: 1,
             bg: itemBg,
             image: itemImage1,
-            title: "Understanding & translating requirements into functionality",
+            title: "Requirement Mapping",
             text: "An utmost important stage.",
             href: "about"
 
@@ -33,8 +33,8 @@ const workProcessOneData = {
             id: 3,
             bg: itemBg,
             image: itemImage3,
-            title: "Development stage Kick-off",
-            text: "Developmental team starts the activities",
+            title: "Development stage",
+            text: "Development starts",
             href: "about"
 
         },
@@ -43,7 +43,7 @@ const workProcessOneData = {
             bg: itemBg,
             image: itemImage4,
             title: "The moment of truth",
-            text: "Testing for Functional accuracy",
+            text: "Testing for accuracy",
             href: "about"
 
         },
@@ -52,7 +52,7 @@ const workProcessOneData = {
             bg: itemBg,
             image: itemImage4,
             title: "Going Live",
-            text: "A smooth transition is ensured",
+            text: "A smooth transition",
             href: "about"
 
         },
