@@ -14,8 +14,8 @@ const {
     tagLine,
     title,
     text,
-    infoIcon,
-    infoText,
+    // infoIcon,
+    // infoText,
     href
 } = ctaFourData
 
@@ -44,8 +44,8 @@ const CtaFour = () => {
                                     </p>
                                     <div className="cta-four__content__bar"></div>
                                     <div className="cta-four__content__info">
-                                        <div className="cta-four__content__info__icon"><i className={infoIcon}></i></div>
-                                        <p className="cta-four__content__info__text">{infoText} <Link href={href}>Meet.</Link>
+                                        <div className="cta-four__content__info__icon"><i className={infoIcon}></i></div> 
+                                        <p className="cta-four__content__info__text">{infoText} <Link href={href}>Meet.</Link> 
                                         </p>
                                     </div>
                                 </div>

@@ -5,14 +5,14 @@ import image4 from "@/assets/images/project/project-2-4.jpg";
 import image5 from "@/assets/images/project/project-2-5.jpg";
 import image6 from "@/assets/images/project/project-2-6.jpg";
 const projectsData = {
-  title: "We Have Business Case Studies",
-  subtitle: "Our Projects Now",
+  title: "Developed, deployed and under AMC projects",
+  subtitle: "Our Portfolio",
   filterCategories: [
     { name: "All", filterClass: "filter-item" },
-    { name: "Business", filterClass: "business" },
-    { name: "Solution", filterClass: "solution" },
-    { name: "Marketing", filterClass: "marketing" },
-    { name: "Software", filterClass: "software" },
+    { name: "Wordpress site & PHP application", filterClass: "Wordpress site & PHP application" },
+    { name: ".Net Application ", filterClass: ".Net Application" },
+    { name: "AI enabled Application ", filterClass: "AI enabled Application " },
+    { name: "Websites", filterClass: "Websites" },
   ],
   projects: [
     {
