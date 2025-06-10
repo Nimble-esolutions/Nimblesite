@@ -14,8 +14,6 @@ const {
     tagLine,
     title,
     text,
-    // infoIcon,
-    // infoText,
     href
 } = ctaFourData
 
@@ -42,12 +40,7 @@ const CtaFour = () => {
                                     <p className="cta-four__content__text">
                                         {text}
                                     </p>
-                                    <div className="cta-four__content__bar"></div>
-                                    <div className="cta-four__content__info">
-                                        <div className="cta-four__content__info__icon"><i className={infoIcon}></i></div> 
-                                        <p className="cta-four__content__info__text">{infoText} <Link href={href}>Meet.</Link> 
-                                        </p>
-                                    </div>
+                                    
                                 </div>
                             </Col>
                             <Col lg={6} className="wow fadeInUp" data-aos='fade-up' data-aos-delay="200">
