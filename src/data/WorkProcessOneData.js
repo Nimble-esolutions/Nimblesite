@@ -51,7 +51,7 @@ const workProcessOneData = {
             id: 5,
             bg: itemBg,
             image: itemImage4,
-            title: "Going Live",
+            title: "Production Launch ",
             text: "A smooth transition",
             href: "about"
 
