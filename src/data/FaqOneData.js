@@ -3,24 +3,24 @@ import bg from "@/assets/images/shapes/faq-bg-1.jpg";
 const faqOneData = {
   bg,
   image,
-  title: "We Fast Frequently Asked The Questions Now",
+  title: "Know Us in a glance",
   tagLine: "See our faqs",
   expTitle: "Years \n Experience",
-  rightTitle: "Donec Quis felis Commodo",
+  rightTitle: "In providing quality services",
   text: "Lorem ipsum is simply free text dol amet, passage of consectetur notted.",
-  count: 36,
+  count: 13,
   accordionData: [
     {
       id: 1,
-      header: "What happens to my data if I cancel?",
+      header: "1.	What are AI enabled applications developed?",
       content:
-        "There are many variations of passages of available but the have suffered alteration in that some form by injected randomised words which don’t look even as slightly believable now.",
+        "a.	Using ChatGpt business API, we have developed private search engine with file management system for a sub-sea consultant agency. \n b.	The application handles hundreds of documents for providing search results.\n c.	The access to documents and ChatGpt seach is restricted to the private database of documents built. ",
     },
     {
       id: 2,
-      header: "What are the different types of marketing solutions?",
+      header: "2.	What are tailor-made products developed?",
       content:
-        "There are many variations of passages of available but the have suffered alteration in that some form by injected randomised words which don’t look even as slightly believable now.",
+        "<ol><li>There are many variations of passages of available but the have suffered alteration in that some form by injected randomised words which don’t look even as slightly believable now.</li></ol>",
     },
     {
       id: 3,

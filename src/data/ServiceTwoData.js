@@ -6,13 +6,13 @@ import image5 from '@/assets/images/resources/service-2-5.jpg'
 import image6 from '@/assets/images/resources/service-2-6.jpg'
 const serviceTwoData = {
     tagLine: "Our Services",
-    title: "AI Integrated Turnkey Solutions",
+    title: "We Leadership This Service",
     carouselData: [
         {
             id: 1,
             image: image1,
             icon: "icon-cooperation",
-            title: ".Net",
+            title: "AI Integrated Turnkey Solutions",
             text: "We businesss standard chunk of Ipsum used since is Agency & Star tup.",
             href: "business-growth"
         },
@@ -20,7 +20,7 @@ const serviceTwoData = {
             id: 2,
             image: image2,
             icon: "icon-ads-campaign",
-            title: "PHP",
+            title: ".Net, PHP, Python Development",
             text: "We businesss standard chunk of Ipsum used since is Agency & Star tup.",
             href: "business-solution"
         },
@@ -28,7 +28,7 @@ const serviceTwoData = {
             id: 3,
             image: image3,
             icon: "icon-headhunter",
-            title: "Python",
+            title: "Website Development",
             text: "We businesss standard chunk of Ipsum used since is Agency & Star tup.",
             href: "marketing-solution"
         },
