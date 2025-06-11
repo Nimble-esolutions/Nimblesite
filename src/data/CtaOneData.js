@@ -16,9 +16,9 @@ const ctaOneData = {
     author2,
     author3,
     icon: "icon-best-price",
-    title: "Solution System Design",
-    text: "Every team has a culture and set of ct ations that have either been aed orsve naturally evolved.",
-    conText: "29,0000 customers with our services",
+    title: "Our Methodology",
+    text: "We specialize in understanding your needs through detailed surveys, analyzing requirements, and crafting tailored solutions using the right technology within your budget. Our expertise ensures this critical and complex phase is executed efficiently—essential in today’s fast-paced tech landscape.",
+    conText: "1000+ customers with our services",
     conLinkText: "( Let’s Started )",
     href: "contact"
 
