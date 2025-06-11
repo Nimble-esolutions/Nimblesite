@@ -5,6 +5,8 @@ import itemImage1 from '@/assets/images/resources/work-process-1.jpg'
 import itemImage2 from '@/assets/images/resources/work-process-2.jpg'
 import itemImage3 from '@/assets/images/resources/work-process-3.jpg'
 import itemImage4 from '@/assets/images/resources/work-process-4.jpg'
+import itemImage5 from '@/assets/images/resources/work-process-5.jpg'
+import itemImage6 from '@/assets/images/resources/work-process-5.jpg'
 
 const workProcessOneData = {
     bg,
@@ -50,7 +52,7 @@ const workProcessOneData = {
         {
             id: 5,
             bg: itemBg,
-            image: itemImage4,
+            image: itemImage5,
             title: "Production Launch ",
             text: "A smooth transition",
             href: "about"
@@ -59,7 +61,7 @@ const workProcessOneData = {
         {
             id: 6,
             bg: itemBg,
-            image: itemImage4,
+            image: itemImage6,
             title: "Hand Holding",
             text: "The timely help is our specialty",
             href: "about"
