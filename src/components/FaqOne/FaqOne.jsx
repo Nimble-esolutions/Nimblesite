@@ -102,7 +102,7 @@ const FaqOne = () => {
                     <Accordion.Body>
                       <div className='inner'>
                        <div 
-                          style={{ color: 'red' }}
+                          style={{ color: 'white' }}
                           dangerouslySetInnerHTML={{ __html: content }} />
                       </div>
                     </Accordion.Body>

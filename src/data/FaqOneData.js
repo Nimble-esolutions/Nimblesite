@@ -7,7 +7,7 @@ const faqOneData = {
   tagLine: "See our faqs",
   expTitle: "Years \n Experience",
   rightTitle: "In providing quality services",
-  text: "Lorem ipsum is simply free text dol amet, passage of consectetur notted.",
+  text: "offering dependable solutions with proven skill and consistent client success",
   count: 13,
   accordionData: [
     {
