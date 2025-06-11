@@ -29,9 +29,9 @@ const page = () => {
             <AboutThree />
             <FunFactTwo />
             <CtaOne page={true} />
-            <ServiceTwo page={true} titleTwo="two" />
-            <TestimonialsTwo page={true} />
-            <FaqOne />
+            {/* <ServiceTwo page={true} titleTwo="two" /> */}
+            {/* <TestimonialsTwo page={true} /> */}
+            {/* <FaqOne /> */}
             <TeamOne />
             <MailTwo />
             <FooterThree />
