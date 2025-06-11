@@ -52,11 +52,11 @@ const AboutTwo = () => {
                         <div className="about-two__content">
                             <div className="sec-title text-left">
                                 <h6 className="sec-title__tagline"><span className="sec-title__tagline__left"></span> {tagLine}<span className="sec-title__tagline__right"></span></h6>
-                                {/* <h3 className="sec-title__title">{title.split("\n").map((t, i) => (
+                                <h3 className="sec-title__title">{title.split("\n").map((t, i) => (
                                     <Fragment key={i}>
                                         {t} <br />
                                     </Fragment>
-                                ))}</h3> */}
+                                ))}</h3>
                             </div>
                             <p className="about-two__content__text">
                                 {text.split("\n").map((t, i) => (
@@ -66,8 +66,35 @@ const AboutTwo = () => {
                                 ))}
 
                             </p>
-                            
-                            
+                            <div className="tabs-content">
+                                {tabContents.map(({ id, image, shape, lists }) => <div key={id} className={`tab fadeInUp animated ${active === id ? "active-tab" : ""}`} id="mission">
+                                    <div className="row">
+                                        <div className="col-md-6">
+                                            <ul className="about-two__content__list">
+                                                {lists.map((list, index) => <li key={index}><span className="icofont-checked"></span>
+                                                    <p>{list}</p>
+                                                </li>)}
+
+                                            </ul>
+                                            <a href="about.html" className="tolak-btn"><b>About More</b><span></span></a>
+                                        </div>
+                                        <div className="col-md-6">
+                                            <div className="about-two__content__image">
+                                                <Image src={image} alt="tolak" />
+                                                <div className="about-two__content__image__bg"></div>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>)}
+
+                            </div>
+                            <ul className="list-unstyled tab-buttons about-two__tabs">
+                                {
+                                    tabItems.map(({ id, title }) => <li onClick={() => setActive(id)} key={id} data-tab="#mission" className={`tab-btn ${active === id ? "active-btn" : ""}`}>{title}</li>)
+                                }
+
+                            </ul>
                         </div>
                     </Col>
                 </Row>

@@ -65,11 +65,11 @@ const AboutThree = () => {
                       <div className='about-three__image__one'>
                         <Image src={image1} alt='tolak' />
                       </div>
-                      <div className='about-three__fact count-box'>
+                      {/* <div className='about-three__fact count-box'>
                         <div className='about-three__fact__icon'>
                           <i className={factIcon}></i>
-                        </div>
-                        <h3 className='about-three__fact__count'>
+                        </div> */}
+                        {/* <h3 className='about-three__fact__count'>
                           {counterOn && (
                             <CountUp
                               className='count-text'
@@ -78,9 +78,9 @@ const AboutThree = () => {
                             />
                           )}
                           k+
-                        </h3>
-                        <p className='about-three__fact__text'>{factText}</p>
-                      </div>
+                        </h3> */}
+                        {/* <p className='about-three__fact__text'>{factText}</p> */}
+                      {/* </div> */}
                     </ScrollTrigger>
                   </Col>
                   <Col md={6}>
@@ -99,7 +99,7 @@ const AboutThree = () => {
                     {tagLine}
                     <span className='sec-title-two__tagline__right icofont-rounded-double-right'></span>
                   </h6>
-                  <h3 className='sec-title-two__title'>{title}</h3>
+                  {/* <h3 className='sec-title-two__title'>{title}</h3> */}
                 </div>
                 <p className='about-three__content__text'>
                   {text.split("\n").map((t, i) => (
@@ -109,7 +109,7 @@ const AboutThree = () => {
                   ))}
                 </p>
                 <div className='about-three__content__bar'></div>
-                <Row>
+                {/* <Row>
                   <Col md={5}>
                     <ul className='about-three__content__list'>
                       {lists.map((l, i) => (
@@ -127,7 +127,7 @@ const AboutThree = () => {
                     />
 
                   </Col>
-                </Row>
+                </Row> */}
                 <div className='about-three__content__quote'>{contQuote}</div>
                 <Row>
                   <Col md={5}>
@@ -144,7 +144,7 @@ const AboutThree = () => {
                     </div>
                   </Col>
                   <Col lg={7}>
-                    <div className='about-three__content__author'>
+                    {/* <div className='about-three__content__author'>
                       <div className='about-three__content__author__image'>
                         <Image src={author} alt='tolak' />
                       </div>
@@ -152,7 +152,7 @@ const AboutThree = () => {
                       <p className='about-three__content__author__text'>
                         {authorText}
                       </p>
-                    </div>
+                    </div> */}
                   </Col>
                 </Row>
               </div>
