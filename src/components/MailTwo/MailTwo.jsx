@@ -20,7 +20,7 @@ const MailTwo = ({ pageTitle }) => {
             ></div>
           )}
 
-          <Row>
+          {/* <Row>
             <Col md={6}>
               <div className='mail-section-two__content'>
                 <div className='mail-section-two__content__icon'>
@@ -34,7 +34,7 @@ const MailTwo = ({ pageTitle }) => {
             <Col md={6}>
               <SidebarNewsletter mail='two' />
             </Col>
-          </Row>
+          </Row> */}
         </div>
       </Container>
     </section>
