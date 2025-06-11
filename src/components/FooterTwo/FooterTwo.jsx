@@ -6,6 +6,7 @@ import React, { Fragment } from "react";
 import { Col, Container, Row } from "react-bootstrap";
 const {
   logo,
+  footerBgTwo,
   footerBgFour,
   shapeTwo,
   footerLogo,
@@ -26,7 +27,7 @@ const FooterTwo = ({ pageTitle }) => {
     <footer className='main-footer-two background-black'>
       <div
         className='main-footer-two__bg background-black'
-        style={{ backgroundImage: `url(${footerBgTwo.src})` }}
+        style={{ backgroundImage: `url(${footerBgFour.src})` }}
       ></div>
 
       <div
