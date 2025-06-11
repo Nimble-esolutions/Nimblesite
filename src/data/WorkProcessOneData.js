@@ -6,7 +6,7 @@ import itemImage2 from '@/assets/images/resources/work-process-2.jpg'
 import itemImage3 from '@/assets/images/resources/work-process-3.jpg'
 import itemImage4 from '@/assets/images/resources/work-process-4.jpg'
 import itemImage5 from '@/assets/images/resources/work-process-5.jpg'
-import itemImage6 from '@/assets/images/resources/work-process-5.jpg'
+import itemImage6 from '@/assets/images/resources/work-process-6.jpg'
 
 const workProcessOneData = {
     bg,
