@@ -6,7 +6,7 @@ import React, { Fragment } from "react";
 import { Col, Container, Row } from "react-bootstrap";
 const {
   logo,
-  footerBgTwo,
+  footerBgFour,
   shapeTwo,
   footerLogo,
   posts,
