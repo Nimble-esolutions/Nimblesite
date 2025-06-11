@@ -2,7 +2,7 @@
 import AboutThree from '@/components/AboutThree/AboutThree';
 import CtaOne from '@/components/CtaOne/CtaOne';
 import FaqOne from '@/components/FaqOne/FaqOne';
-import FooterTwo from '@/components/FooterTwo/FooterTwo';
+import FooterThree from '@/components/FooterThree/FooterThree';
 import FunFactTwo from '@/components/FunFactTwo/FunFactTwo';
 import HeaderInner from '@/components/HeaderInner/HeaderInner';
 import HeaderInnerCloned from '@/components/HeaderInner/HeaderInnerCloned';
@@ -34,7 +34,7 @@ const page = () => {
             {/* <FaqOne /> */}
             <TeamOne />
             <MailTwo />
-            <FooterTwo />
+            <FooterThree />
         </Layout>
     );
 };

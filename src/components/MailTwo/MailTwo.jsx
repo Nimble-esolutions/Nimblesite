@@ -33,6 +33,7 @@ const MailTwo = ({ pageTitle }) => {
             </Col>
             <Col md={6}>
               {/* <SidebarNewsletter mail='two' /> */}
+              <h5>info@nimble-esolutions.com</h5>
             </Col>
           </Row>
         </div>
