@@ -7,7 +7,7 @@ import image6 from '@/assets/images/team/team-1-6.jpg'
 import { faFacebookF, faInstagram, faPinterestP, faTwitter } from '@fortawesome/free-brands-svg-icons';
 const teamOneData = {
     tagLine: "Our Team Member",
-    title: "Meet Great Customer Service",
+    title: "Meet The Team Metting Solution",
     title2: "Meet The Team Metting Solution",
     carouselData: [
         {
@@ -18,9 +18,9 @@ const teamOneData = {
                 { id: 2, icon: faPinterestP, link: "https://pinterest.com", name: "Pinterest" },
                 { id: 3, icon: faTwitter, link: "https://twitter.com", name: "Twitter" },
                 { id: 4, icon: faInstagram, link: "https://instagram.com", name: "Instagram" },
-            ], title: "Lorata Barsa",
+            ], title: "Kunjika Dhapre",
             href: "team-details",
-            designation: "Founder"
+            designation: "Developer"
 
 
         },
@@ -32,9 +32,9 @@ const teamOneData = {
                 { id: 2, icon: faPinterestP, link: "https://pinterest.com", name: "Pinterest" },
                 { id: 3, icon: faTwitter, link: "https://twitter.com", name: "Twitter" },
                 { id: 4, icon: faInstagram, link: "https://instagram.com", name: "Instagram" },
-            ], title: "Moras Batas",
+            ], title: "Pradnya Kulkarni",
             href: "team-details",
-            designation: "Manager"
+            designation: "Developer"
 
 
         },
@@ -46,9 +46,9 @@ const teamOneData = {
                 { id: 2, icon: faPinterestP, link: "https://pinterest.com", name: "Pinterest" },
                 { id: 3, icon: faTwitter, link: "https://twitter.com", name: "Twitter" },
                 { id: 4, icon: faInstagram, link: "https://instagram.com", name: "Instagram" },
-            ], title: "Korata Mana",
+            ], title: "Vaishnavi Gokhale",
             href: "team-details",
-            designation: "Founder"
+            designation: "Developer"
 
 
         },
