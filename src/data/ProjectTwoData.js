@@ -17,7 +17,7 @@ const projectsData = {
   projects: [
     {
       image: image1,
-      category: "Marketing",
+      category: "Websites",
       title: "Business Of Growth",
       link: "/project-details",
       filterClasses: ["marketing"],
@@ -26,7 +26,7 @@ const projectsData = {
     },
     {
       image: image2,
-      category: "Marketing",
+      category: "Websites",
       title: "Business Of Growth",
       link: "/project-details",
       filterClasses: ["business", "solution"],
@@ -35,7 +35,7 @@ const projectsData = {
     },
     {
       image: image3,
-      category: "Marketing",
+      category: "Wordpress site & PHP application",
       title: "Business Of Growth",
       link: "/project-details",
       filterClasses: ["software", "business"],
@@ -44,7 +44,7 @@ const projectsData = {
     },
     {
       image: image4,
-      category: "Marketing",
+      category: "Websites",
       title: "Business Of Growth",
       link: "/project-details",
       filterClasses: ["soluion"],
@@ -53,7 +53,7 @@ const projectsData = {
     },
     {
       image: image5,
-      category: "Marketing",
+      category: "Wordpress site & PHP application",
       title: "Business Of Growth",
       link: "/project-details",
       filterClasses: ["marketing", "software"],
@@ -62,7 +62,7 @@ const projectsData = {
     },
     {
       image: image6,
-      category: "Marketing",
+      category: "Wordpress site & PHP application",
       title: "Business Of Growth",
       link: "/project-details",
       filterClasses: ["business", "solution"],
