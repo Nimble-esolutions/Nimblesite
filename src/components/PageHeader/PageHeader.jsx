@@ -7,7 +7,7 @@ const PageHeader = ({ title, subTitle }) => {
   return (
     <section className='page-header'>
       <div className='page-header__bg'></div>
-      <div className='page-header__shape'></div>
+      {/* <div className='page-header__shape'></div> */}
       <div className='page-header__shape-two'></div>
 
       <div className='container'>
