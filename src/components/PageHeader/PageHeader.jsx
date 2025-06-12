@@ -28,7 +28,7 @@ const PageHeader = ({ title, subTitle }) => {
           <div className='col-md-5'>
             <div className='page-header__layer wow fadeInUp' data-aos='fade-up' data-aos-delay='100'>
               <Image src={bannerLayer} alt='Nimble' />
-              <div className='page-header__layer__shape'></div>
+              {/* <div className='page-header__layer__shape'></div> */}
               <div
                 className='page-header__layer__bg wow fadeInRight' data-aos='fade-left'
                 data-aos-delay='200'
