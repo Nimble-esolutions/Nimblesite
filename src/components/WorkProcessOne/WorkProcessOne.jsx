@@ -41,7 +41,7 @@ const WorkProcessOne = () => {
         <section className="work-process-one" style={{ backgroundImage: `url(${bg.src})` }}>
             <Container >
                 <div className="sec-title-two text-center">
-                    <h6 className="sec-title-two__tagline"><span className="sec-title-two__tagline__left icofont-rounded-double-left"></span>{tagLine}<span className="sec-title-two__tagline__right icofont-rounded-double-right"></span></h6>
+                    <h6 className="sec-title__tagline"><span className="sec-title-two__tagline__left icofont-rounded-double-left"></span>{tagLine}<span className="sec-title-two__tagline__right icofont-rounded-double-right"></span></h6>
                     <h3 className="sec-title-two__title">{title}</h3>
                 </div>
                 <div className="tolak-owl__carousel--basic-nav">
