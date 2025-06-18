@@ -66,12 +66,12 @@ const TopbarTwo = () => {
                         </div>
                     </Col>
                     <Col md={5}>
-                        <ul className="topbar-two__links">
+                        {/* <ul className="topbar-two__links">
                             {
                                 links.map(({ id, name, href }) => <li key={id}><Link href={href}>{name}</Link></li>)
                             }
 
-                        </ul>
+                        </ul> */}
                     </Col>
                 </Row>
             </Container >
