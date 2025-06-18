@@ -47,14 +47,14 @@ const FooterTwo = ({ pageTitle }) => {
                 />
               </a>
               <p className='footer-widget--about-two__text'>{widgetText}</p>
-              <div className='footer-widget__social'>
+              {/* <div className='footer-widget__social'>
                 {widgetSocial.map(({ id, href, icon, title }) => (
                   <Link href={href} key={id}>
                     <FontAwesomeIcon icon={icon} />
                     <span className='sr-only'>{title}</span>
                   </Link>
                 ))}
-              </div>
+              </div> */}
             </div>
           </Col>
           <Col md={6} lg={3}>
