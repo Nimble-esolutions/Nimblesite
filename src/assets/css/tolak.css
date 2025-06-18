@@ -11910,7 +11910,7 @@ body.megamenu-popup-active .mobile-nav__content {
   line-height: 1;
   -webkit-text-fill-color: transparent;
   -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: var(--tolak-base, #3d72fc);
+  -webkit-text-stroke-color: var(--tolak-yellow, #fdb714);
   margin: 0 0 0;
 }
 
