@@ -24,7 +24,7 @@
   --tolak-text-dark: #b7b7b7;
   --tolak-text-dark-rgb: 183, 183, 183;
   --tolak-base: #a52017;/*#3d72fc;*/
-  --tolak-base-rgb: 61, 114, 252;
+  --tolak-base-rgb: 165, 32, 23; /*61, 114, 252;*/
   --tolak-gray: #ecf2fc;
   --tolak-gray-rgb: 236, 242, 252;
   --tolak-gray2: #c1c1c1;
@@ -45,6 +45,8 @@
   --tolak-border-color2-rgb: 234, 240, 250;
   --tolak-letter-space: 0.1em;
   --tolak-letter-space-xl: 0.2em;
+  --tolak-yellow: #fdb714;
+  --tolak-tellow-rgb: 153, 183,20;
 }
 
 body.home5 {
@@ -1002,7 +1004,7 @@ h6 {
 .sec-title-two__tagline {
   margin: 0 0 17px;
   font-family: var(--tolak-font, "Rubik", sans-serif);
-  color: var(--tolak-base, #3d72fc);
+  color:var(--tolak-yellow, #fdb714);
   font-size: 16px;
   text-transform: uppercase;
   font-weight: 500;
