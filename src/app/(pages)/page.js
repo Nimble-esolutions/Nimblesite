@@ -15,6 +15,7 @@ import PricingOne from "@/components/PricingOne/PricingOne";
 import ProjectTwo from "@/components/ProjectsTwo/ProjectsTwo";
 import ServiceTwo from "@/components/ServiceTwo/ServiceTwo";
 import TestimonialsOne from "@/components/TestimonialsOne/TestimonialsOne";
+import TestimonialsOnePageCarousel from '@/components/TestimonialOnePageCarousel/TestimonialOnePageCarousel';
 import TopbarTwo from "@/components/TopbarTwo/TopbarTwo";
 import WorkProcessOne from "@/components/WorkProcessOne/WorkProcessOne";
 import React from "react";
@@ -40,7 +41,8 @@ const page = () => {
       <ProjectTwo />
       <CtaFour />
       <WorkProcessOne />
-      <TestimonialsOne />
+      <TestimonialsOnePageCarousel />
+      {/* <TestimonialsOne /> */}
       {/* <PricingOne />
       <CtaThree />
       <BlogTwo /> */}
