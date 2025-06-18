@@ -76,7 +76,7 @@ const AboutTwo = () => {
                                                 </li>)}
 
                                             </ul>
-                                            <a href="about.html" className="tolak-btn"><b>About More</b><span></span></a>
+                                            {/* <a href="about.html" className="tolak-btn"><b>About More</b><span></span></a> */}
                                         </div>
                                         <div className="col-md-6">
                                             <div className="about-two__content__image">
