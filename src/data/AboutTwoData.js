@@ -22,12 +22,12 @@ const aboutTwoData = {
         },
         {
             id: 2,
-            title: "Support"
+            title: "USPs"
         },
-        {
-            id: 3,
-            title: "Service"
-        }
+        // {
+        //     id: 3,
+        //     title: "Service"
+        // }
     ],
     tabContents: [
         {
@@ -48,15 +48,15 @@ const aboutTwoData = {
             ],
 
         },
-        {
-            id: 3,
-            image: contImage,
-            shape: contShape,
-            lists: ["Business onstructivism.", "We give management", "Media in this solution."
+        // {
+        //     id: 3,
+        //     image: contImage,
+        //     shape: contShape,
+        //     lists: ["Business onstructivism.", "We give management", "Media in this solution."
 
-            ],
+        //     ],
 
-        }
+        // }
     ]
 
 

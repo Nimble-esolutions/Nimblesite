@@ -20,7 +20,7 @@ const aboutFourData = {
         },
         {
             id: 2,
-            title: "Support"
+            title: "USPs"
         },
         {
             id: 3,
