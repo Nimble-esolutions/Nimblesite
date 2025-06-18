@@ -7239,7 +7239,7 @@ body.megamenu-popup-active .mobile-nav__content {
 
 .testimonials-card__quote {
   font-size: 54px;
-  color: var(--tolak-base, #3d72fc);
+  color: var(--tolak-yellow, #fdb714);
   display: block;
   line-height: 1;
   margin: 0 0 13px;
