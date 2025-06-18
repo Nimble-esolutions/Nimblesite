@@ -111,10 +111,10 @@ const MainSliderTwo = ({ dark }) => {
                     <Col xl={7}>
                         <div className="main-slider-two__content">
                             <h2 className="main-slider-two__title wow fadeInUp" data-aos='fade-up' data-aos-delay="100">
-                                Providing Business Solutions
+                                {/* Providing Business Solutions */}
                                 <Typewriter
                                     className="typewrite"
-                                    words={["Planning", "Growth", "Thinking"]}
+                                    words={["AI enabled Solutions", "Develop Tailor-made Products", "Develop Websites", "Develop E-learning Solutions"]}
                                     loop={0}
                                     cursor
                                     cursorStyle='|'
@@ -143,7 +143,7 @@ const MainSliderTwo = ({ dark }) => {
                                     </ul>
                                 </Col>
                                 <Col md={7} lg={7} className="wow fadeInRight" data-aos='fade-left' data-aos-delay="300">
-                                    <div className="main-slider-two__social">
+                                    {/* <div className="main-slider-two__social">
                                         <h5 className="main-slider-two__social__title">Follow Social:</h5>
                                         <div className="main-slider-two__social__wrap">
                                             {
@@ -154,7 +154,7 @@ const MainSliderTwo = ({ dark }) => {
                                             }
 
                                         </div>
-                                    </div>
+                                    </div> */}
                                 </Col>
                             </Row>
                             <div className="main-slider-two__btn wow fadeInUp" data-aos='fade-up' data-aos-delay="400ms">
