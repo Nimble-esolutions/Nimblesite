@@ -79,11 +79,11 @@ const TestimonialsOnePageCarousel = () => {
                                             {name}
                                         </h3>
                                         <p className="testimonials-card__designation">{designation}</p>
-                                        <div className="testimonials-card__rating">
+                                        {/* <div className="testimonials-card__rating">
                                             {
                                                 rating.map((c, i) => <i key={i} className={c}></i>)
                                             }
-                                        </div>
+                                        </div> */}
                                         <div className="testimonials-card__image">
                                             <Image src={image} alt={name} />
                                         </div>
