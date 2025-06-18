@@ -58,7 +58,7 @@ const WorkProcessOne = () => {
                                     <p className="work-process-one__item__text">
                                         {text}
                                     </p>
-                                    <Link href={href} className="work-process-one__item__rm"><i className="icon-right-arrow"></i></Link>
+                                    {/* <Link href={href} className="work-process-one__item__rm"><i className="icon-right-arrow"></i></Link> */}
                                 </div>
                             </div>
 
